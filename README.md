@@ -1,0 +1,3 @@
+## This a simple cute game for starting to programming for beginners 
+### Feel free to change it or whatever u want to make it better !
+You'll go to a cave and choose one cave between 2 caves and then the story is starting ...
